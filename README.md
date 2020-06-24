@@ -2,7 +2,7 @@
 <p align="center">Under review ¯\_(ツ)_/¯</p>
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=tech.siddharthsaini.car">
-    <img alt="Chinese Apps Remover" title="Chinese Apps Remover" src="https://raw.githubusercontent.com/sidxharth/Chinese-Apps-Remover/master/share.png?token=AMYBFDCTFL5VXIMXU7U6QT264BZ6U" width="450">
+    <img alt="Chinese Apps Remover" title="Chinese Apps Remover" src="https://raw.githubusercontent.com/siddharthsaini/Chinese-Apps-Remover/master/share.png?token=AMYBFDCTFL5VXIMXU7U6QT264BZ6U" width="450">
   </a>
 </p>
 <p align="center">Developed for HackJaipur, 2020</p>
